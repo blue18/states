@@ -1,0 +1,6 @@
+Oregon 3000000 2
+Benton 53000 120000 250000 1 Corvallis
+Lane 90000 55000 150000 2 Eugene Springfield
+South_Carolina 1000000 2
+Anderson 80000 180000 80000 2 Anderson Pendleton 
+Pickens 50000 58000 20000 2 Clemeson Pickens
